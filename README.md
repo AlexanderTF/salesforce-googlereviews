@@ -60,6 +60,8 @@ public static void getPlaceReviews(String placeId) {
     // Additional logic...
 }
 ```
+#### Case Example
+![Case example Screenshot](https://github.com/AlexanderTF/salesforce-googlereviews/blob/main/image/Case_Sample_Image.png)
 ## Next Steps
 To go even further with the implementation, an API can be integrated to have a user reply to the reviews directly from Salesforce and publish it directly into Google.
 Scheduled flow or Apex can also execute the Apex class on a daily basis.
