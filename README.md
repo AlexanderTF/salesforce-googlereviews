@@ -1,7 +1,7 @@
 # Google Places API Integration in Salesforce
 
 ## Overview
-This project integrates the Google Places API with Salesforce to retrieve place details, including reviews and ratings, and store them in the standard Salesforce Case object. This integration helps users access up-to-date information from Google Places directly within Salesforce.
+This project integrates the Google Places API with Salesforce to retrieve place details (of my favorite bouldering gym), including reviews and ratings, and store them in the standard Salesforce Case object. This integration helps users access up-to-date information from Google Places directly within Salesforce.
 
 ## Features
 - **Retrieve Reviews**: Fetches place reviews from Google Places, including author name, rating, and review text.
